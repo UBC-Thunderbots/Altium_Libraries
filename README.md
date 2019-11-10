@@ -9,7 +9,7 @@ Github SVN repository for UBC Thunderbots Altium_Libraries Altium project files.
 
 ## Instructions
 1. Fork the repository in github.
-1. Clone your fork of the repositoryUBC-Thunderbots/PCB_MotorDriver to your PC (i.e. C:/Documents/GitHub/Altium_Libraries)
+1. Clone your fork of the repositoryUBC-Thunderbots/Altium_Libraries to your PC (i.e. C:/Documents/GitHub/Altium_Libraries)
 2. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Version Control** and ensure *SVN - Subversion* is enabled and Version 1.9 is selected.
 4. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Design Repositories**.
 5. Within **Design Repositories** click on on *Connect To* -> *SVN*.

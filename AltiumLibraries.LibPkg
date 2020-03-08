@@ -71,6 +71,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQGIYEKU
 
+[Generic_IntLibOptions]
+OldFormat=False
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=

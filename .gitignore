@@ -23,3 +23,6 @@ Project\ Outputs*/
 
 
 # End of https://www.gitignore.io/api/altium
+*.csv
+*.rep
+*.xlsx

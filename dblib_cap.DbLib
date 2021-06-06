@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Z:\Documents\GitHub\Altium_Libraries\Capacitors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=E:\github elec\Altium_Libraries\Capacitors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=2
 UpdateMode=2
@@ -19,23 +19,3 @@ LibrarySearchPath=..\Altium_Libraries
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-[FieldMap1]
-Options=FieldName=Capacitors$.Library Ref|TableNameOnly=Capacitors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap2]
-Options=FieldName=Capacitors$.Library Path|TableNameOnly=Capacitors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap3]
-Options=FieldName=Capacitors$.Footprint Path|TableNameOnly=Capacitors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap4]
-Options=FieldName=Capacitors$.Description|TableNameOnly=Capacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap5]
-Options=FieldName=Capacitors$.Part Number|TableNameOnly=Capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap6]
-Options=FieldName=Capacitors$.Value|TableNameOnly=Capacitors$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap7]
-Options=FieldName=Capacitors$.Rating|TableNameOnly=Capacitors$|FieldNameOnly=Rating|FieldType=1|ParameterName=Rating|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap8]
-Options=FieldName=Capacitors$.Footprint Ref 1|TableNameOnly=Capacitors$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap9]
-Options=FieldName=Capacitors$.Footprint Ref 2|TableNameOnly=Capacitors$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap10]
-Options=FieldName=Capacitors$.F14|TableNameOnly=Capacitors$|FieldNameOnly=F14|FieldType=1|ParameterName=|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0

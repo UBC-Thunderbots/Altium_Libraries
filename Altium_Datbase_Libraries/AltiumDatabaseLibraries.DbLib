@@ -1,7 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
+<<<<<<< Updated upstream
 ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\UBC\ThunderBots\Altium_Libraries\Altium_Datbase_Libraries\Database.mdb;Persist Security Info=False
+=======
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\UBC\ThunderBots\Altium_Libraries\Altium_Datbase_Libraries\Database.MDB;Persist Security Info=False
+>>>>>>> Stashed changes
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +16,11 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
+<<<<<<< Updated upstream
 LibraryDatabasePath=Database.mdb
+=======
+LibraryDatabasePath=Database.MDB
+>>>>>>> Stashed changes
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=C:\UBC\ThunderBots\Altium_Libraries\Altium_Datbase_Libraries\Libraries\
@@ -26,9 +34,15 @@ TableName=AltiumLibraries
 Enabled=True
 UserWhere=0
 UserWhereText=
+<<<<<<< Updated upstream
 BrowserOrder_Sorting=Topology0=Up
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Part Number0=415|Library Ref0=415|Library Path0=313|Description0=1245|Footprint Path0=314|Footprint Ref0=408|Footprint Path 20=314|Footprint Ref 20=435|Footprint Path 30=314|Footprint Ref 30=273|Footprint Path 40=199|Footprint Ref 40=189|Comment0=365|Component Kind0=208|Component Type0=213|Designator0=415|Footprint0=435|Library Reference0=415|Manufacturer0=360|Manufacturer Part Number0=304|Pin Count0=137|Supplier 10=163|Supplier Part Number 10=342|Digikey Link0=1805|Rating0=141|Type0=185|Value0=110|Temperature Coefficient0=280|Tolerance0=139|Height0=109|Diameter0=133|Mount0=192|Number of Pins0=194|Length0=110|Voltage Rating0=186|Depth0=103|Width0=106|Datasheet_URL0=368|Topology0=137|Revision0=124|Turn-On Delay Time0=240|Unity Gain Bandwidth Product0=332|V rating0=120
+=======
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=415|Library Ref0=415|Library Path0=313|Comment0=365|Component Kind0=208|Component Type0=213|Description0=1245|Designator0=415|Footprint0=435|Library Reference0=415|Manufacturer0=360|Manufacturer Part Number0=304|Pin Count0=137|Supplier 10=163|Supplier Part Number 10=342|Footprint Path0=314|Footprint Ref0=408|Digikey Link0=1805|Rating0=141|Type0=185|Footprint Path 20=314|Footprint Ref 20=435|Footprint Path 30=314|Footprint Ref 30=273|Value0=110|Temperature Coefficient0=280|Tolerance0=139|Height0=109|Diameter0=133|Mount0=192|Number of Pins0=194|Length0=110|Voltage Rating0=186|Depth0=103|Width0=106|Datasheet_URL0=368|Topology0=163|Revision0=407|Turn-On Delay Time0=240|Unity Gain Bandwidth Product0=332|Footprint Path 40=314|Footprint Ref 40=264|V rating0=120
+>>>>>>> Stashed changes
 [FieldMap1]
 Options=FieldName=AltiumLibraries.Part Number|TableNameOnly=AltiumLibraries|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

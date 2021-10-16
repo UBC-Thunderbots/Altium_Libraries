@@ -33,20 +33,14 @@ Options=FieldName=AltiumLibraries.Library Ref|TableNameOnly=AltiumLibraries|Fiel
 [FieldMap3]
 Options=FieldName=AltiumLibraries.Library Path|TableNameOnly=AltiumLibraries|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=AltiumLibraries.Description|TableNameOnly=AltiumLibraries|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap5]
 Options=FieldName=AltiumLibraries.Footprint Path|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap6]
+[FieldMap5]
 Options=FieldName=AltiumLibraries.Footprint Ref|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap7]
+[FieldMap6]
 Options=FieldName=AltiumLibraries.Footprint Path 2|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap8]
+[FieldMap7]
 Options=FieldName=AltiumLibraries.Footprint Ref 2|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap9]
+[FieldMap8]
 Options=FieldName=AltiumLibraries.Footprint Path 3|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap10]
+[FieldMap9]
 Options=FieldName=AltiumLibraries.Footprint Ref 3|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap11]
-Options=FieldName=AltiumLibraries.Footprint Path 4|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap12]
-Options=FieldName=AltiumLibraries.Footprint Ref 4|TableNameOnly=AltiumLibraries|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

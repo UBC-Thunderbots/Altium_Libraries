@@ -1,0 +1,21 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\databases\capacitor_database.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=databases\capacitor_database.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=C:\UBC\ThunderBots\Altium_Libraries\Libraries\
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=

@@ -19,3 +19,31 @@ LibrarySearchPath=C:\UBC\ThunderBots\Altium_Libraries\Libraries\
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
+LastFocusedTable=capacitors
+[Table1]
+SchemaName=
+TableName=capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=202|Library Ref0=116|Library Path0=179|Footprint Path0=304|Footprint Ref0=196|Footprint Path 20=389|Footprint Ref 20=281|Footprint Path 30=126|Footprint Ref 30=117|Supplier 10=86|Supplier Part Number 10=169|Supplier URL 10=115|Supplier 20=86|Supplier Part Number 20=169|Supplier URL 20=115|Value0=60|Rating0=64|Temperature Coefficient0=171|Tolerance0=83
+[FieldMap1]
+Options=FieldName=capacitors.Part Number|TableNameOnly=capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=capacitors.Library Ref|TableNameOnly=capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=capacitors.Library Path|TableNameOnly=capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=capacitors.Footprint Path|TableNameOnly=capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=capacitors.Footprint Ref|TableNameOnly=capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=capacitors.Footprint Path 2|TableNameOnly=capacitors|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=capacitors.Footprint Ref 2|TableNameOnly=capacitors|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=capacitors.Footprint Path 3|TableNameOnly=capacitors|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=capacitors.Footprint Ref 3|TableNameOnly=capacitors|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

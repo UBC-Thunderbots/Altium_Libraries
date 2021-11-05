@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\database\resistor_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\user\thunderbots\Altium_Libraries\libraries-v2.0\database\resistor_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=142|Library Ref0=95|Library Path0=221|Footprint Path0=266|Footprint Ref0=113|Footprint Path 20=203|Footprint Ref 20=117|Value0=59|Tolerence0=83
+BrowserOrder_Visible=Part Number0=112|Library Ref0=78|Library Path0=187|Footprint Path0=217|Footprint Ref0=92|Footprint Path 20=168|Footprint Ref 20=101|Value0=52|Tolerence0=73
 [FieldMap1]
 Options=FieldName=Resistors.Part Number|TableNameOnly=Resistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

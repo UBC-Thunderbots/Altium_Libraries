@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=111|Library Path0=241|Library Ref0=111|Footprint Path0=314|Footprint Ref0=171|Footprint Path 20=107|Footprint Ref 20=101|Footprint Path 30=107|Footprint Ref 30=101|Manufacturer Part Number0=178|Supplier 10=75|Supplier Part Number 10=142|Supplier URL 10=684|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98
+BrowserOrder_Visible=Part Number0=111|Library Path0=246|Library Ref0=114|Footprint Path0=314|Footprint Ref0=171|Footprint Path 20=107|Footprint Ref 20=101|Footprint Path 30=107|Footprint Ref 30=101|Manufacturer Part Number0=178|Supplier 10=75|Supplier Part Number 10=142|Supplier URL 10=684|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98
 [FieldMap1]
 Options=FieldName=Switches.Part Number|TableNameOnly=Switches|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

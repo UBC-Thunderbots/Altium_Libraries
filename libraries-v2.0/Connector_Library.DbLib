@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\kenny\OneDrive\Desktop\Thunderbots\Altium_Libraries\libraries-v2.0\database\connector_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\franc\OneDrive\Documents\GitHub\Altium_Libraries\libraries-v2.0\database\connector_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=212|Library Path0=343|Library Ref0=212|Footprint Path0=313|Footprint Ref0=169|Footprint Path 20=277|Footprint Ref 20=134|Footprint Path 30=107|Footprint Ref 30=101|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Supplier URL 10=942|Supplier 20=75|Supplier Part Number 20=142|LCSC0=48|Supplier URL 20=98|Pin Count0=74
+BrowserOrder_Visible=Part Number0=527|Library Path0=841|Library Ref0=527|Footprint Path0=757|Footprint Ref0=417|Footprint Path 20=673|Footprint Ref 20=334|Footprint Path 30=245|Footprint Ref 30=231|Manufacturer Part Number0=380|Supplier 10=171|Supplier Part Number 10=338|Supplier URL 10=2286|Supplier 20=171|Supplier Part Number 20=338|LCSC0=108|Supplier URL 20=1722|Pin Count0=167
 [FieldMap1]
 Options=FieldName=Connectors.Part Number|TableNameOnly=Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\henry\Documents\Documents\University\GitHub\Altium_Libraries\libraries-v2.0\database\transistor_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\sturn\Desktop\Thunderbots\Electrical\Altium_Libraries\libraries-v2.0\database\transistor_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=285|Library Path0=438|Library Ref0=285|Footprint Path0=344|Footprint Ref0=176|Footprint Path 20=317|Footprint Ref 20=149|Footprint Path 30=126|Footprint Ref 30=117|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=222|Supplier URL 10=943|Supplier 20=86|Supplier Part Number 20=169|Supplier URL 20=115|Transistor Type0=118|DC Current Gain (hFE) @ Ic, Vce0=221
+BrowserOrder_Visible=Part Number0=227|Library Path0=357|Library Ref0=227|Footprint Path0=279|Footprint Ref0=136|Footprint Path 20=262|Footprint Ref 20=119|Footprint Path 30=107|Footprint Ref 30=101|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=175|Supplier URL 10=768|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98|Transistor Type0=101|DC Current Gain (hFE) @ Ic, Vce0=184
 [FieldMap1]
 Options=FieldName=Transistors.Part Number|TableNameOnly=Transistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

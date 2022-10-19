@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=112|Library Ref0=113|Library Path0=252|Footprint Path0=236|Footprint Ref0=93|Footprint Path 20=175|Footprint Ref 20=101|Manufacturer Part Number 10=169|Value0=52|Tolerance0=73|Supplier 10=75|Supplier Part Number 10=162|Supplier URL 10=991|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=818|Tolerance 20=82
+BrowserOrder_Visible=Part Number0=113|Library Ref0=113|Library Path0=252|Footprint Path0=236|Footprint Ref0=93|Footprint Path 20=175|Footprint Ref 20=101|Manufacturer Part Number 10=169|Value0=52|Tolerance0=73|Supplier 10=75|Supplier Part Number 10=162|Supplier URL 10=991|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=818|Tolerance 20=82
 [FieldMap1]
 Options=FieldName=Resistors.Part Number|TableNameOnly=Resistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

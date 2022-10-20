@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\sturn\Desktop\Thunderbots\Electrical\Altium_Libraries\libraries-v2.0\database\ic_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Kenny.Wakaba\Desktop\Thunderbots\Altium_Libraries\libraries-v2.0\database\ic_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=150|Library Path0=280|Library Ref0=150|Footprint Path0=309|Footprint Ref0=166|Footprint Path 20=279|Footprint Ref 20=136|Footprint Path 30=280|Footprint Ref 30=137|Footprint Path 40=276|Footprint Ref 40=133|Description0=635|Manufacturer Part Number 10=640|Supplier 10=75|Supplier Part Number 10=177|Supplier URL 10=840|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98
+BrowserOrder_Visible=Part Number0=150|Library Path0=280|Library Ref0=150|Footprint Path0=337|Footprint Ref0=194|Footprint Path 20=279|Footprint Ref 20=136|Footprint Path 30=280|Footprint Ref 30=137|Footprint Path 40=276|Footprint Ref 40=133|Description0=635|Manufacturer Part Number 10=640|Supplier 10=75|Supplier Part Number 10=177|Supplier URL 10=842|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98
 [FieldMap1]
 Options=FieldName=ICs.Part Number|TableNameOnly=ICs|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

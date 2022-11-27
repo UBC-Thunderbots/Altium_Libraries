@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\sturn\Desktop\Thunderbots\Electrical\Altium_Libraries\libraries-v2.0\database\capacitor_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Class\Team\Altium_Libraries\libraries-v2.0\database\capacitor_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=158|Library Ref0=112|Library Path0=242|Footprint Path0=297|Footprint Ref0=154|Footprint Path 20=364|Footprint Ref 20=221|Footprint Path 30=107|Footprint Ref 30=101|Manufacturer Part Number 10=188|Supplier 10=75|Supplier Part Number 10=176|Supplier URL 10=98|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Supplier URL 20=98|Value0=52|Rating0=57|Temperature Coefficient0=147|Tolerance0=73
+BrowserOrder_Visible=Part Number0=240|Library Ref0=171|Library Path0=362|Footprint Path0=446|Footprint Ref0=237|Footprint Path 20=551|Footprint Ref 20=342|Footprint Path 30=164|Footprint Ref 30=153|Manufacturer Part Number 10=276|Supplier 10=116|Supplier Part Number 10=268|Supplier URL 10=151|Manufacturer Part Number 20=261|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=151|Value0=83|Rating0=89|Temperature Coefficient0=224|Tolerance0=114
 [FieldMap1]
 Options=FieldName=capacitors.Part Number|TableNameOnly=capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

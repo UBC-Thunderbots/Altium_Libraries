@@ -26,7 +26,7 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
+BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Part Number0=169|Library Ref0=169|Library Path0=372|Footprint Path0=346|Footprint Ref0=139|Footprint Path 20=255|Footprint Ref 20=153|Manufacturer Part Number 10=261|Value0=83|Tolerance0=114|Supplier 10=116|Supplier Part Number 10=244|Supplier URL 10=1482|Manufacturer Part Number 20=261|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=1225|Tolerance 20=128
 [FieldMap1]

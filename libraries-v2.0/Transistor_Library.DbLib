@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\rocky\OneDrive - UBC\Desktop\Thunderbots\Electrical\Altium_Libraries\libraries-v2.0\database\transistor_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Ryann\Documents\GitHub\Altium_Libraries\libraries-v2.0\database\transistor_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2

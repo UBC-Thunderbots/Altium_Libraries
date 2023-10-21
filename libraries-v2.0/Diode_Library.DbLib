@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Class\Team\Altium_Libraries\libraries-v2.0\database\diode_database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\defne\Downloads\thunderbots\Altium_Libraries\libraries-v2.0\database\diode_database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=286|Library Path0=449|Library Ref0=258|Footprint Path0=527|Footprint Ref0=318|Footprint Path 20=287|Footprint Ref 20=153|Footprint Path 30=164|Footprint Ref 30=153|Manufacturer Part Number 10=261|Supplier 10=116|Supplier Part Number 10=220|Supplier URL 10=1338|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=151|Pin Count0=116|Power0=87|Voltage Rating - DC0=193|Current Rating0=152
+BrowserOrder_Visible=Part Number0=288|Library Path0=449|Library Ref0=258|Footprint Path0=527|Footprint Ref0=318|Footprint Path 20=287|Footprint Ref 20=153|Footprint Path 30=164|Footprint Ref 30=153|Manufacturer Part Number 10=261|Supplier 10=116|Supplier Part Number 10=220|Supplier URL 10=1338|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=151|Pin Count0=116|Power0=87|Voltage Rating - DC0=193|Current Rating0=152
 [FieldMap1]
 Options=FieldName=Diodes.Part Number|TableNameOnly=Diodes|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=266|Library Path0=420|Library Ref0=266|Footprint Path0=404|Footprint Ref0=236|Footprint Path 20=342|Footprint Ref 20=174|Footprint Path 30=126|Footprint Ref 30=117|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=306|Supplier URL 10=1833|Supplier 20=86|Supplier Part Number 20=169|LCSC0=57|Supplier URL 20=864|Pin Count0=86
+BrowserOrder_Visible=Part Number0=266|Library Path0=779|Library Ref0=266|Footprint Path0=819|Footprint Ref0=236|Footprint Path 20=342|Footprint Ref 20=174|Footprint Path 30=126|Footprint Ref 30=117|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=306|Supplier URL 10=1855|Supplier 20=86|Supplier Part Number 20=169|LCSC0=57|Supplier URL 20=864|Pin Count0=86
 [FieldMap1]
 Options=FieldName=Connectors.Part Number|TableNameOnly=Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

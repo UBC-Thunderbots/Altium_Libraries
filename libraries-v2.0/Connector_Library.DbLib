@@ -1,7 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
+<<<<<<< Updated upstream
 ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\omrik\OneDrive\Documents\GitHub\Altium_Libraries\libraries-v2.0\database\connector_database.mdb;Persist Security Info=False
+=======
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\defne\Downloads\thunderbots\Altium_Libraries\libraries-v2.0\database\connector_database.mdb;Persist Security Info=False
+>>>>>>> Stashed changes
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +32,11 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
+<<<<<<< Updated upstream
 BrowserOrder_Visible=Part Number0=266|Library Path0=779|Library Ref0=266|Footprint Path0=819|Footprint Ref0=236|Footprint Path 20=342|Footprint Ref 20=174|Footprint Path 30=126|Footprint Ref 30=117|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=306|Supplier URL 10=1855|Supplier 20=86|Supplier Part Number 20=169|LCSC0=57|Supplier URL 20=864|Pin Count0=86
+=======
+BrowserOrder_Visible=Part Number0=325|Library Path0=516|Library Ref0=325|Footprint Path0=495|Footprint Ref0=286|Footprint Path 20=414|Footprint Ref 20=205|Footprint Path 30=164|Footprint Ref 30=153|Manufacturer Part Number 10=261|Supplier 10=116|Supplier Part Number 10=360|Supplier URL 10=2268|Supplier 20=116|Supplier Part Number 20=220|LCSC0=79|Supplier URL 20=1063|Pin Count0=116
+>>>>>>> Stashed changes
 [FieldMap1]
 Options=FieldName=Connectors.Part Number|TableNameOnly=Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Class\Team\Alt
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Part Number0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=232|Library Path0=423|Library Ref0=232|Footprint Path0=507|Footprint Ref0=298|Footprint Path 20=420|Footprint Ref 20=211|Footprint Path 30=421|Footprint Ref 30=212|Footprint Path 40=412|Footprint Ref 40=203|Description0=959|Manufacturer Part Number 10=918|Supplier 10=116|Supplier Part Number 10=271|Supplier URL 10=1276|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=151
+BrowserOrder_Visible=Part Number0=257|Library Path0=452|Library Ref0=257|Footprint Path0=507|Footprint Ref0=298|Footprint Path 20=420|Footprint Ref 20=211|Footprint Path 30=421|Footprint Ref 30=212|Footprint Path 40=412|Footprint Ref 40=203|Description0=999|Manufacturer Part Number 10=918|Supplier 10=116|Supplier Part Number 10=271|Supplier URL 10=1756|Supplier 20=116|Supplier Part Number 20=220|Supplier URL 20=151
 [FieldMap1]
 Options=FieldName=ICs.Part Number|TableNameOnly=ICs|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
